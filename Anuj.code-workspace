@@ -1,0 +1,68 @@
+{
+  "folders": [
+	{
+		"path": "../Codeforces"
+	},
+	{
+		"path": "../Interview"
+	},
+	{
+		"path": "../../Web Development Course/Social Media App"
+	},
+	{
+		"path": "../Facebook Hacker Cup"
+	},
+	{
+		"path": "../Project_Euler"
+	},
+	{
+		"path": "C:/Users/anujv/OneDrive - iitkgp.ac.in/Documents/GitHub/sagarsuman1299.github.io"
+	},
+	{
+		"path": "../CSES"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "files.associations": {
+      "vector": "cpp",
+      "cmath": "cpp",
+      "fstream": "cpp",
+      "random": "cpp",
+      "chrono": "cpp",
+      "codecvt": "cpp",
+      "xlocale": "cpp",
+      "xstring": "cpp",
+      "iostream": "cpp",
+      "unordered_map": "cpp",
+      "queue": "cpp",
+      "iomanip": "cpp",
+      "xiosbase": "cpp",
+      "xutility": "cpp",
+      "utility": "cpp",
+      "valarray": "cpp",
+      "forward_list": "cpp",
+      "list": "cpp",
+      "array": "cpp",
+      "bitset": "cpp",
+      "string_view": "cpp",
+      "initializer_list": "cpp",
+      "regex": "cpp",
+      "deque": "cpp",
+      "stack": "cpp",
+      "type_traits": "cpp",
+      "xhash": "cpp",
+      "xtree": "cpp",
+      "string": "cpp",
+      "unordered_set": "cpp",
+      "format": "cpp",
+      "ostream": "cpp",
+      "*.tcc": "cpp",
+      "algorithm": "cpp",
+      "ios": "cpp"
+    },
+    "liveServer.settings.multiRootWorkspaceName": "sagarsuman1299.github.io"
+  }
+}
